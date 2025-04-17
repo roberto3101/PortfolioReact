@@ -1,6 +1,7 @@
 {
   "name": "portfolio",
-  "homepage": "https://roberto3101.github.io//PortfolioReact.git",
+  "homepage": "https://roberto3101.github.io/PortfolioReact"
+,
   "private": true,
   "version": "0.0.0",
   "type": "module",
