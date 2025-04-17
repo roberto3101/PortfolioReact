@@ -7,5 +7,5 @@ export default defineConfig({
 
 
 
-  base:'/PortfolioReact.git'
+  base:'/PortfolioReact'
 })
