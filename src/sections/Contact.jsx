@@ -54,7 +54,7 @@ export const Contact = () => {
               type="submit"
               className="w-full max-w-2xl bg-gradient-to-r from-teal-500 to-indigo-600 hover:from-teal-400 hover:to-indigo-500 text-white font-semibold py-4 rounded-xl text-lg shadow-lg transition hover:-translate-y-1 hover:shadow-[0_0_25px_rgba(0,0,0,0.3)]"
             >
-              Enviar mensaje
+              Enviar mensajes
             </button>
           </form>
         </div>
