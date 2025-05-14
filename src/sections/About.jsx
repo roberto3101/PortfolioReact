@@ -10,7 +10,9 @@ function About() {
     "Node Js",
     "Express",
     "Sql Server",
-    "MySql"
+    "MySql",
+    "Java"
+    
   ];
   return (
     <section
@@ -29,7 +31,7 @@ function About() {
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="rounded-xl p-6 hover:-translate-y-1 transition-all">
-              <h3 className="text-2xl text-center font-bold mb-8">💼 Skills</h3>
+              <h3 className="text-2xl text-center font-bold mb-8">💼 Lenguajes</h3>
               <div className="flex justify-center flex-wrap gap-2">
                 {skills.map((skill, index) => (
                   <span
@@ -44,13 +46,13 @@ function About() {
 
             <div className="p-6 hover:-translate-y-1 transition-all">
               <h3 className="text-2xl text-center font-bold mb-8">
-                📚 Education
+                📚 Educación
               </h3>
               <ul className="pl-5 list-disc list-inside text-lg text-gray-300">
                 <li>
                   <strong>
                     {" "}
-                    <em>Computación e informatica </em>{" "}
+                    <em>Computación e informática </em>{" "}
                   </strong>
                   Cibertec (2022-2025)
                 </li>
@@ -62,7 +64,7 @@ function About() {
           </div>
           <div className="p-6 hover:-translate-y-1 transition-all">
             <h3 className="text-2xl text-center font-bold mb-8">
-              💻 Work Experience
+              💻 Experiencia laboral
             </h3>
             <ul className="pl-5 list-disc list-inside text-lg text-gray-300">
               <li>
@@ -78,6 +80,7 @@ Desarrollé interfaces de usuario dinámicas con JavaScript (ES6+), HTML y CSS <
 
 Integré APIs RESTful y optimicé el rendimiento para lograr tiempos de carga más rápidos.
               </li>
+              <li>Construccion de aplicacion web de gestion de inventario y usuarios para una biblioteca con sistema de devoluciones y roles de usuario utilizando java</li>
               <li>
                 Proyectos Universitarios Funcionales...
               </li>

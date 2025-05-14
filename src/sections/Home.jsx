@@ -29,14 +29,14 @@ function Home() {
                         className="bg-gradient-to-r flex flex-row from-teal-500 to-indigo-600 py-3 px-6 rounded hover:-translate-y-1   hover:shadow-[0_0_15px_rgba(59,130,246,0.4)]  font-medium transition relative overflow-hidden"
                         href="#contact"
                     >
-                        Contact Me
+                        Contactame
                     </a>
                     <a
                         className="bg-gradient-to-r flex flex-row from-teal-500 to-indigo-600 py-3 px-6 rounded hover:-translate-y-1 hover:shadow-[0_0_15px_rgba(59,130,246,0.4)]  font-medium transition relative overflow-hidden "
                         href={resume}
                         download
                     >
-                        <p>Resume </p>
+                        <p>Descargar Curriculum</p>
                         <span className="h-5 ml-3 text-2xl text-white">
                             <FiDownload />
                         </span>

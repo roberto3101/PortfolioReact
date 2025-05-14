@@ -27,19 +27,19 @@ useEffect(() => {
           <div className='flex md:flex items-center space-x-8 '>
             <div className='hidden md:flex items-center space-x-8'>
 
-              <a href="#Home" className='text-gray-300 hover:text-xl hover:text-white transition-all'>Home
+              <a href="#Home" className='text-gray-300 hover:text-xl hover:text-white transition-all'>Inicio
               </a>
 
               <a href="#About" className='text-gray-300 hover:text-xl hover:text-white transition-all'>
-                About
+                Acerca de
               </a>
 
               <a href="#Projects" className='text-gray-300 hover:text-xl hover:text-white transition-all'>
-                Projects
+                Proyectos
               </a>
 
               <a href="#Contact" className='text-gray-300 hover:text-xl hover:text-white transition-all'>
-                Contact
+                Contacto
               </a>
 
 
