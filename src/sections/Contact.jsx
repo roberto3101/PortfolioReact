@@ -3,7 +3,7 @@ import RevealOnScroll from "../Ui/RevealOnScroll";
 export const Contact = () => {
   return (
     <section
-      id="contact"
+      id="Contact"
       className="min-h-screen font-mono flex items-center justify-center py-20 px-4 sm:px-8"
     >
       <RevealOnScroll>

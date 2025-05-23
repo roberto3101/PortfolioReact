@@ -42,7 +42,7 @@ function Projects() {
   
   return (
     <section
-      id="projects"
+      id="Projects"
       className="min-h-screen flex items-center font-mono justify-center py-20"
     >
       <RevealOnScroll>

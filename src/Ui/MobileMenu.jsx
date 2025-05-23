@@ -19,7 +19,7 @@ function MobileMenu({ isMenuOpen, setIsMenuOpen }) {
 
       <a
         onClick={() => setIsMenuOpen(false)}
-        href="#home"
+        href="#Home"
         className={` text-2xl font-semibold text-white my-4 transform transition-transform duration-300 
             ${
               isMenuOpen
@@ -32,7 +32,7 @@ function MobileMenu({ isMenuOpen, setIsMenuOpen }) {
       </a>
       <a
         onClick={() => setIsMenuOpen(false)}
-        href="#about"
+        href="#About"
         className={` text-2xl font-semibold text-white my-4 transform transition-transform duration-300  ${
           isMenuOpen ? "opacity-100 translate-y-0" : "opacity-0 translate-y-5"
         } `}
@@ -41,7 +41,7 @@ function MobileMenu({ isMenuOpen, setIsMenuOpen }) {
       </a>
       <a
         onClick={() => setIsMenuOpen(false)}
-        href="#projects"
+        href="#Projects"
         className={` text-2xl font-semibold text-white my-4 transform transition-transform duration-300  ${
           isMenuOpen ? "opacity-100 translate-y-0" : "opacity-0 translate-y-5"
         } `}
@@ -50,7 +50,7 @@ function MobileMenu({ isMenuOpen, setIsMenuOpen }) {
       </a>
       <a
         onClick={() => setIsMenuOpen(false)}
-        href="#contact"
+        href="#Contact"
         className={` text-2xl font-semibold text-white my-4 transform transition-transform duration-300  ${
           isMenuOpen ? "opacity-100 translate-y-0" : "opacity-0 translate-y-5"
         } `}
